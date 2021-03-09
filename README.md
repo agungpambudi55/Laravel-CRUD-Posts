@@ -31,5 +31,5 @@ Tutorials from [Ilmu Coding](https://ilmucoding.com/crud-laravel-8)
 - Open a browser and type http://127.0.0.1:8000/posts
 
 # Screenshot
-![Screenshot_1][https://raw.githubusercontent.com/agungpambudi55/Laravel-CRUD-Posts/master/screenshot/Screenshot_1.png?token=AA5Q4ZGGG6D5II4PEJP2AKTAI3D6S]
-![Screenshot_2][https://raw.githubusercontent.com/agungpambudi55/Laravel-CRUD-Posts/master/screenshot/Screenshot_2.png?token=AA5Q4ZHAEBJLYYISTP4TOZLAI3D66]
+![Screenshot_1](https://raw.githubusercontent.com/agungpambudi55/Laravel-CRUD-Posts/master/screenshot/Screenshot_1.png?token=AA5Q4ZGGG6D5II4PEJP2AKTAI3D6S)
+![Screenshot_2](https://raw.githubusercontent.com/agungpambudi55/Laravel-CRUD-Posts/master/screenshot/Screenshot_2.png?token=AA5Q4ZHAEBJLYYISTP4TOZLAI3D66)
