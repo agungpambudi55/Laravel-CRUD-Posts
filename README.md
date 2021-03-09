@@ -29,3 +29,7 @@ Tutorials from [Ilmu Coding](https://ilmucoding.com/crud-laravel-8)
 - Type `php artisan migrate` to create a table in the database
 - Run this project with `php artisan serve`
 - Open a browser and type http://127.0.0.1:8000/posts
+
+# Screenshot
+![Screenshot_1][]
+![Screenshot_2][]
