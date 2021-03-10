@@ -29,12 +29,10 @@
             <td class="text-center">{{ ++$i }}</td>
             <td>{{ $post->title }}</td>
             <td class="text-center">
-                <form action="{{ route('posts.destroy',$post->id) }}" method="POST">
- 
-                    <a class="btn btn-info btn-sm" href="{{ route('posts.show',$post->id) }}">Show</a>
- 
-                    <a class="btn btn-primary btn-sm" href="{{ route('posts.edit',$post->id) }}">Edit</a>
- 
+                <form action="{{ route('posts.destroy',$post->id_post) }}" method="POST">
+                    <a class="btn btn-info btn-sm" href="{{ route('posts.show',$post->id_post) }}">Show</a> 
+                    <a class="btn btn-primary btn-sm" href="{{ route('posts.edit',$post->id_post) }}">Edit</a>
+
                     @csrf
                     @method('DELETE')
  
